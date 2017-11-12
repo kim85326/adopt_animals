@@ -1,0 +1,22 @@
+#loading{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+#title{
+	margin-top: 10px;
+	text-align: center;
+}
+
+.card{
+	float:left;
+	margin: 10px;
+	width: 320px;
+	height: 400px;
+}
+
+.card-img-top{
+
+}
